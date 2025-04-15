@@ -1,0 +1,7 @@
+[submodule "deps/link"]
+	path = deps/link
+	url = https://github.com/Ableton/link.git
+
+[submodule "deps/juce"]
+	path = deps/juce
+	url = https://github.com/juce-framework/JUCE.git
