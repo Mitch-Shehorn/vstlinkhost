@@ -1,3 +1,5 @@
+Development Stage: Early Alpha
+
 # VSTLinkHost
 
 A VST plugin host with Ableton Link integration for synchronized music creation.
