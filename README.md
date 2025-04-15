@@ -1,4 +1,6 @@
-### Current Development Stage: Early Alpha
+## Development Stage
+Alpha
+
 
 # VSTLinkHost
 
