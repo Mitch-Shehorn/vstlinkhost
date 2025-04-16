@@ -55,6 +55,3 @@ If you see errors about missing JUCE or Ableton Link:
 - **Visual Studio errors**: Ensure VS2022 with C++ desktop development is installed
 - **Compiler errors**: Check that your VS installation includes the necessary C++ components
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
